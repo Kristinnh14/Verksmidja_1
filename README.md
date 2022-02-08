@@ -2,7 +2,7 @@
 
 ## Lýsing
 ##### Í þessu verkefni var smíðað spilið Simon Says frá grunni.
-Það var byrjað á að búa til frumgerð af spilinu á brauðbretti með hlutum úr Arduino settinu.
+Það var byrjað á að búa til frumgerð af spilinu á brauðbretti með hlutum úr Arduino settinu. Þegar það var fengið það til að virka var byrjað á hönnunarferlinu, sem tók töluverðan tíma þar sem markmiðið var að hafa þetta sem snyrtilegast og lítið. Þegar hönnunin var komin þá var byrjað á því að lóða viðnámið, headerinn og hátalarann á stærra veroborðið. Næsta skref var að lóða alla víra á veroborðin og var þá passað að hafa alla víra sem fara í hluti, rauða og alla víra sem fara í ground, svarta. Þegar veroborðin voru tilbúin var fest LED perurnar og takkana á sína staði. Það endaði á því að vera mikið vesen, en hafðist á endanum. Næst var rocker switch (on/off) takkinn festur í og tengdur við batterí boxið. Þá átti bara eftir að tengja vírana við takkana og perurnar og var þá kassanum lokað og spilið tilbúið.
 
 ## Frumgerð á brauðbretti
 ![Mynd 1](IMG_1757.JPG)
@@ -29,3 +29,7 @@
 
 ## Myndband af virkni lokaafurð
 [Youtube](https://youtu.be/iBr2S6zKVVc)
+
+
+
+### Kristinn Halldórsson - Tölvubraut Hönnun - Tækniskólinn
