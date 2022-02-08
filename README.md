@@ -1,5 +1,9 @@
 # Verkefni 5 - Simon Says
 
+## Lýsing
+##### Í þessu verkefni var smíðað spilið Simon Says frá grunni.
+Það var byrjað á að búa til frumgerð af spilinu á brauðbretti með hlutum úr Arduino settinu.
+
 ## Frumgerð á brauðbretti
 ![Mynd 1](IMG_1757.JPG)
 ![Mynd 2](IMG_1758.JPG)
